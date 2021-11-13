@@ -122,7 +122,7 @@ async function run() {
 
 
 
-        //Post API
+
 
 
         //UPDATE API
@@ -140,7 +140,7 @@ async function run() {
                 console.log(documents);
 
             }
-            // res.json(result);
+
 
 
         });
